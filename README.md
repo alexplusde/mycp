@@ -16,8 +16,9 @@ Dieses Repository verwendet Git Submodules, um auf private GitHub-Repositories z
 
 1. Öffne GitHub Desktop
 2. Klone dieses Repository (`alexplusde/addons-mcp`)
-3. Öffne ein Terminal im Repository-Ordner
-4. Führe einen der folgenden Befehle aus:
+3. **Wichtig**: Das Klonen lädt zunächst nur die Verweise auf die Submodules, nicht deren Inhalte
+4. Öffne ein Terminal im Repository-Ordner
+5. Führe **zwingend** einen der folgenden Befehle aus, um die Submodules zu initialisieren und deren Inhalte zu laden:
 
 ### Windows (PowerShell):
 ```powershell
