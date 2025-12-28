@@ -1,4 +1,4 @@
-# MyCP
+# MyCP - Mein MCP
 
 Ein Repository, das Verweise auf meine wichtigsten privaten REDAXO CMS Add-ons enthält, um sie in einem MCP-Server nutzen zu können.
 
