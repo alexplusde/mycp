@@ -1,0 +1,9 @@
+[submodule "neues"]
+	path = neues
+	url = git@github.com:alexplusde/neues.git
+[submodule "events"]
+	path = events
+	url = git@github.com:alexplusde/events.git
+[submodule "maintenance"]
+	path = maintenance
+	url = git@github.com:alexplusde/maintenance.git

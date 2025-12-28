@@ -1,0 +1,5 @@
+# Ignore all submodule directories (their contents won't be committed to this repo)
+# The .gitmodules file contains the references
+neues/
+events/
+maintenance/
